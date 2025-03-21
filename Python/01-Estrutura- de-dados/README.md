@@ -17,7 +17,7 @@ Estruturas de dados são formas de organizar e armazenar dados de maneira eficie
 
 ## Listas
 
-As listas são coleções ordenadas e mutáveis de itens. Elas são definidas usando colchetes `[]`.
+As listas são coleções ordenadas e mutáveis de itens. Elas são definidas usando colchetes `[]` ou a função list.
 
 ```python
 # Exemplo de lista
@@ -25,11 +25,11 @@ frutas = ["maçã", "banana", "laranja"]
 ```
 ## Tuplas
 
-As listas são coleções ordenadas e imutáveis de itens. Elas são definidas usando colchetes `[]`.
+As listas são coleções ordenadas e imutáveis de itens. Elas são definidas usando  parenteses `(,)`.
 
 ```python
-# Exemplo de lista
-frutas = ["maçã", "banana", "laranja"]
+# Exemplo de tupla
+frutas =("maçã", "banana", "laranja",)
 ```
 
 
